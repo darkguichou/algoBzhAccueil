@@ -1,0 +1,40 @@
+
+
+body{
+
+
+    margin-left: 10%;
+    margin-right: 10%;
+
+    padding-left: 10%;
+    padding-right: 10%;
+
+    border: 1px solid gray;
+
+}
+
+table{
+
+    width: 90%;
+
+}
+
+table, td, th{
+
+ border: 1px solid gray;
+
+
+}
+
+td, th{
+
+    text-align: center;
+
+
+}
+
+h1,h2{
+
+    text-align: center  ;
+
+}
